@@ -14,6 +14,8 @@ This application also displays a dynamic month and year based on the internet cl
 
 Within the JavaScript, these use 3 private functions: Budget Controller function, UI Controller function and Global App Controller function. Dummy data is shown in the HTML, but replaced to 0/empty values when application has started. A console log message displays to show that the application has successfully started.
 
+Data that is entered from the front end is then stored into a Data object with an Income array and an Expense Array. If a user wishes to delete a particular income or expense from the main front end, a cross 'X' icon will appear next to that income or expense. Clicking this icon will remove it from the main calculator and the array will reorder the income and expenses.
+
 Dark Mode is also included as part of this application, with colours inverting on the main application.
 
 Validation is also part of this application, and users can not enter empty values in the application, enter text description but no value, or value but no text description. You can not enter minus numbers on income or expense.
