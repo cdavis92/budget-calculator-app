@@ -21,3 +21,5 @@ Dark Mode is also included as part of this application, with colours inverting o
 Validation is also part of this application, and users can not enter empty values in the application, enter text description but no value, or value but no text description. You can not enter minus numbers on income or expense.
 
 Finally, users can clear/reset the calculator again by clicking the cross 'X' button next to the tick icon.
+
+Originally developed in November 2018.
