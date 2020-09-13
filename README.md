@@ -22,4 +22,4 @@ Validation is also part of this application, and users can not enter empty value
 
 Finally, users can clear/reset the calculator again by clicking the cross 'X' button next to the tick icon.
 
-Originally developed in November 2018.
+Originally developed in 2019.
